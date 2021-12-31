@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\krishna.chavan\Music\awspractice\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2121456059.index
